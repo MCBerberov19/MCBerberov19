@@ -3,7 +3,7 @@
 <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mcberberov19&show_icons=true&locale=en" alt="mcberberov19" /></p>
 
-- 🌱 I’m currently learning **C++ and JavaScript**
+- 🌱 I’m currently learning **C++, C#, React + TypeScript**
 
 - 📫 How to reach me: **MCBerberov19@codingburgas.bg**
 
